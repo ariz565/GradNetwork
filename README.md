@@ -1,15 +1,20 @@
-# GradNetwork
+GradNetwork
+GradNetwork is a web platform that allows university students and recent graduates to connect, collaborate, and explore career opportunities.
 
-**Project: GradNetwork**
+Description
+The platform enables users to:
 
-**Description:** GradNetwork is a web platform designed to facilitate networking and collaboration among university students and recent graduates. The platform provides a space for users to create profiles, connect with peers, share academic achievements, and explore potential career opportunities.
-
-**Technologies Used:** 
-**Front-End Technologies:**
-HTML (Hypertext Markup Language): Used for creating the structure and content of web pages.
-CSS (Cascading Style Sheets): Utilized for styling the visual presentation of web pages.
-JavaScript: Provides interactivity and dynamic behavior to web pages.
-
-**Back-End Technologies:**
-PHP: The main scripting language for server-side logic and dynamic content generation.
-MySQL: Common relational database management systems used for storing and managing data.
+Create a profile and showcase their background, skills, and academic achievements
+Connect and network with fellow students and graduates
+Share content like articles, papers, projects
+Discover and apply for job openings and internships
+Join groups and discussions relevant to their field of study
+Technologies Used
+Frontend
+HTML - Structure and content
+CSS - Styling and presentation
+JavaScript - Interactivity and dynamic behavior
+Backend
+PHP - Server-side scripting language
+MySQL - Database management system
+The frontend is built using HTML, CSS and JavaScript while the backend relies on PHP for server-side logic and MySQL database for storing and managing platform data and content.
