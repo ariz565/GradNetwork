@@ -24,4 +24,4 @@ MySQL - Database management system
 
 The frontend is built using HTML, CSS and JavaScript while the backend relies on PHP for server-side logic and MySQL database for storing and managing platform data and content.
 
-<img src="https://github.com/ariz565/GradNetwork/blob/main/Homepage.png>
+<img src="https://github.com/ariz565/GradNetwork/blob/main/Homepage.png">
