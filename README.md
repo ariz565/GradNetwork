@@ -1,4 +1,3 @@
-#GradNetwork
 GradNetwork is a web platform that allows university students and recent graduates to connect, collaborate, and explore career opportunities.
 
 #Description
@@ -11,14 +10,13 @@ Share content like articles, papers, projects.
 Discover and apply for job openings and internships.
 Join groups and discussions relevant to their field of study.
 
-#Technologies Used
-Frontend
+#Technologies Used:
+Frontend:
 HTML - Structure and content
 CSS - Styling and presentation
 JavaScript - Interactivity and dynamic behavior
 
-Backend
-
+Backend:
 PHP - Server-side scripting language
 MySQL - Database management system
 
