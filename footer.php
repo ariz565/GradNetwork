@@ -6,6 +6,7 @@
   .modal-dialog.mid-large {
     width: 50% !important;
     max-width: unset;
+   color: black;
   }
  </style>
  
