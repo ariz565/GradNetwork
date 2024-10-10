@@ -18,6 +18,7 @@
         <link href="css/styles.css" rel="stylesheet" />
         <link type="text/css" rel="stylesheet" href="admin/assets/css/jquery-te-1.4.0.css">
         <link type="text/css" rel="stylesheet" href="admin/assets/css/jquery-te-1.4.0.css">
+        <link type="text/css" rel="stylesheet" href="admin/assets/css/jquery-te-1.4.0.css">
 
          <link href="admin/assets/css/select2.min.css" rel="stylesheet">
 
